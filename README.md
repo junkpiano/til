@@ -3,7 +3,7 @@ Today I Learned
 
 Not curation, but just accumulation.
 
-*4 tils*, and counting...
+*5 tils*, and counting...
 
 ---
 
@@ -11,6 +11,7 @@ Not curation, but just accumulation.
 - [MacOS](#MacOS)
 - [Firebase](#Firebase)
 - [Jenkins](#Jenkins)
+- [Git](#Git)
 
 ## Swift
 
@@ -27,3 +28,8 @@ Not curation, but just accumulation.
 ## Jenkins
 
 - [How you become root in Docker container on Jenkins pipeline](/jenkins/how-you-become-root-in-docker-container.md)
+
+
+## Git
+
+- [Downcase folder name](git/downcase-folder-name.md)
