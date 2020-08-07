@@ -3,7 +3,7 @@ Today I Learned
 
 Not curation, but just accumulation.
 
-*5 tils*, and counting...
+*6 TILs, and counting...*
 
 ---
 
@@ -33,3 +33,4 @@ Not curation, but just accumulation.
 ## Git
 
 - [Downcase folder name](git/downcase-folder-name.md)
+- [Mirror Repo](git/mirror-repo.md)
