@@ -7,13 +7,13 @@ Not curation, but just accumulation.
 
 ---
 
-- [Swift](#Swift)
-- [MacOS](#MacOS)
-- [Firebase](#Firebase)
-- [Jenkins](#Jenkins)
-- [Git](#Git)
-- [Docker](#Docker)
-- [Shell](#Shell)
+- [Swift](#swift)
+- [MacOS](#macoS)
+- [Firebase](#firebase)
+- [Jenkins](#jenkins)
+- [Git](#git)
+- [Docker](#docker)
+- [Shell](#shell)
 
 ## Swift
 
