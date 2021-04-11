@@ -3,7 +3,7 @@ Today I Learned
 
 Not curation, but just accumulation.
 
-*7 TILs, and counting...*
+*8 TILs, and counting...*
 
 ---
 
@@ -17,6 +17,7 @@ Not curation, but just accumulation.
 ## Swift
 
 - [Gathering code coverage](/swift/gathering-test-coverage.md)
+- [Frozen](/swift/frozen.md)
 
 ## MacOS
 
