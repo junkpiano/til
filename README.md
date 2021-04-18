@@ -3,7 +3,7 @@ Today I Learned
 
 Not curation, but just accumulation.
 
-*9 TILs, and counting...*
+*10 TILs, and counting...*
 
 ---
 
@@ -23,6 +23,7 @@ Not curation, but just accumulation.
 ## MacOS
 
 - [Convert .mov into .mp4](/macos/convert-mov-into-mp4.md)
+- [How to see invisible files in Finder app](/macos/how-to-see-invisible-files-in-finder-app.md)
 
 ## Firebase
 
