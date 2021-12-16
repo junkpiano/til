@@ -3,7 +3,7 @@ Today I Learned
 
 Not curation, but just accumulation.
 
-*10 TILs, and counting...*
+*11 TILs, and counting...*
 
 ---
 
@@ -14,6 +14,7 @@ Not curation, but just accumulation.
 - [Git](#git)
 - [Docker](#docker)
 - [Shell](#shell)
+- [Go](#go)
 
 ## Swift
 
@@ -46,3 +47,7 @@ Not curation, but just accumulation.
 ## Shell
 
 - [Disable Backup of sed](shell/disable-backup-of-sed.md)
+
+## Go
+
+- [Find index of slice](go/index_of_slice.md)
