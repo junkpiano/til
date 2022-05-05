@@ -1,0 +1,33 @@
+Doom Emacs
+=============================
+
+## Installation
+
+First off, install dependencies
+
+```
+sudo apt install -y ripgrep fd-find
+```
+
+```
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d
+~/.emacs.d/bin/doom install
+```
+
+After you enable modules, or add packages, run sync command so that everything is prepared.
+
+```
+~/.emacs.d/bin/doom sync
+```
+
+After you upgrade/downgrade emacs, you need to rebuild packages.
+
+```
+~/.emacs.d/bin/doom build
+```
+
+Whenever you did above, don't forget to restart emacs or `M-x restart-emacs`
+
+## Key Bindings
+
+Doom Emacs default key binding is **vim-mode**.

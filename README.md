@@ -3,7 +3,7 @@ Today I Learned
 
 Not curation, but just accumulation.
 
-*11 TILs, and counting...*
+*14 TILs, and counting...*
 
 ---
 
@@ -15,6 +15,7 @@ Not curation, but just accumulation.
 - [Docker](#docker)
 - [Shell](#shell)
 - [Go](#go)
+- [Emacs](#emacs)
 
 ## Swift
 
@@ -51,3 +52,8 @@ Not curation, but just accumulation.
 ## Go
 
 - [Find index of slice](go/index_of_slice.md)
+
+## Emacs
+
+- [Build your own Emacs](emacs/build_your_own_emacs.md)
+- [DOOM Emacs](emacs/doom_emacs.md)
