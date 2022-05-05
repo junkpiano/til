@@ -14,6 +14,6 @@ If you only wanted to change the browser used for Markdown Mode previewing speci
       (apply orig args))))
 ```
 
-## Referece(s)
+## Reference(s)
 
 - https://leanpub.com/markdown-mode/read#tips
