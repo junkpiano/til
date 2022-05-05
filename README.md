@@ -35,7 +35,6 @@ Not curation, but just accumulation.
 
 - [How you become root in Docker container on Jenkins pipeline](/jenkins/how-you-become-root-in-docker-container.md)
 
-
 ## Git
 
 - [Downcase folder name](git/downcase-folder-name.md)
@@ -57,3 +56,4 @@ Not curation, but just accumulation.
 
 - [Build your own Emacs](emacs/build_your_own_emacs.md)
 - [DOOM Emacs](emacs/doom_emacs.md)
+- [Set Default Browser](emacs/set_default_browser.md)
