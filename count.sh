@@ -1,6 +1,10 @@
 #!/bin/sh
 
 BASEDIR="$( cd "$( dirname "$0" )" && pwd )"
-COUNT=$(find . | grep ".md" | grep -v "${BASEDIR}/README.md" | wc -l | xargs echo)
+COUNT=$(find . | grep ".md" | grep -v -c "${BASEDIR}/README.md")
 
-sed -e "s/^\*[0-9]* TILs/\*${COUNT} TILs/" ${BASEDIR}/README.md
+if [ "$(uname)" == "Darwin" ]; then
+    sed -i '' -e "s/^\*[0-9]* TILs/\*${COUNT} TILs/" ${BASEDIR}/README.md
+else
+    sed -i -e "s/^\*[0-9]* TILs/\*${COUNT} TILs/" ${BASEDIR}/README.md
+fi
