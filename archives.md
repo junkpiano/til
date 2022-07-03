@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Archives
-date: 2022-07-03 09:01:51 +0000
+date: 2022-07-03 18:09:07 +0000
 ---
 
-*14 TILs, and counting...*
+*15 TILs, and counting...*
 
 ## Category
 
@@ -16,6 +16,7 @@ date: 2022-07-03 09:01:51 +0000
 * [hardware](#hardware)
 * [jenkins](#jenkins)
 * [python](#python)
+* [shell](#shell)
 
 
 ## Docker
@@ -51,5 +52,9 @@ date: 2022-07-03 09:01:51 +0000
 ## Python
 
 * [Using Pycharm for Django](python/2022/07/03/1292248097.html) 
+
+## Shell
+
+* [Disable Backup of `sed`](shell/2022/07/03/1292384061.html) 
 
 
