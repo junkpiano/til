@@ -1,33 +1,21 @@
 ---
 layout: page
 title: Archives
-date: 2022-07-03 08:11:10 +0900
+date: 2022-07-03 08:19:01 +0000
 ---
 
 *13 TILs, and counting...*
 
 ## Category
 
-* [go](#go)
-* [git](#git)
-* [hardware](#hardware)
 * [jenkins](#jenkins)
 * [docker](#docker)
 * [emacs](#emacs)
 * [firebase](#firebase)
+* [go](#go)
+* [git](#git)
+* [hardware](#hardware)
 
-
-## Go
-
-* [Find index of slice](go/2022/07/02/1292088454.html) 
-
-## Git
-
-* [Mirror Repo](git/2022/07/02/1292084303.html) 
-
-## Hardware
-
-* [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
 
 ## Jenkins
 
@@ -46,5 +34,17 @@ date: 2022-07-03 08:11:10 +0900
 ## Firebase
 
 * [Authenticate in Go without Admin SDK](firebase/2022/07/02/1292113497.html) 
+
+## Go
+
+* [Find index of slice](go/2022/07/02/1292088454.html) 
+
+## Git
+
+* [Mirror Repo](git/2022/07/02/1292084303.html) 
+
+## Hardware
+
+* [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
 
 
