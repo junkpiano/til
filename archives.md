@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Archives
-date: 2022-07-03 08:59:16 +0000
+date: 2022-07-03 09:01:51 +0000
 ---
 
-*13 TILs, and counting...*
+*14 TILs, and counting...*
 
 ## Category
 
@@ -15,6 +15,7 @@ date: 2022-07-03 08:59:16 +0000
 * [go](#go)
 * [hardware](#hardware)
 * [jenkins](#jenkins)
+* [python](#python)
 
 
 ## Docker
@@ -46,5 +47,9 @@ date: 2022-07-03 08:59:16 +0000
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
+
+## Python
+
+* [Using Pycharm for Django](python/2022/07/03/1292248097.html) 
 
 
