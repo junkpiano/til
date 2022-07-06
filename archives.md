@@ -1,23 +1,25 @@
 ---
 layout: page
 title: Archives
-date: 2022-07-06 06:06:28 +0000
+date: 2022-07-06 15:06:11 +0000
+category: 
 ---
 
 *17 TILs, and counting...*
 
 ## Category
 
-* [docker](#docker)
-* [emacs](#emacs)
-* [firebase](#firebase)
-* [git](#git)
-* [go](#go)
-* [hardware](#hardware)
-* [jenkins](#jenkins)
-* [python](#python)
-* [shell](#shell)
-* [swift](#swift)
+* [Docker](#docker)
+* [Emacs](#emacs)
+* [Firebase](#firebase)
+* [Git](#git)
+* [Go](#go)
+* [Hardware](#hardware)
+* [Jenkins](#jenkins)
+* [Misc](#misc)
+* [Python](#python)
+* [Shell](#shell)
+* [Swift](#swift)
 
 
 ## Docker
@@ -49,6 +51,10 @@ date: 2022-07-06 06:06:28 +0000
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
+
+## Misc
+
+* [Debug](2022/07/06/1295120531.html) 
 
 ## Python
 
