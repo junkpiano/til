@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2022-07-10 10:33:55 +0000
+date: 2022-07-10 10:36:19 +0000
 category: 
 ---
 
-*16 TILs, and counting...*
+*17 TILs, and counting...*
 
 ## Category
 
@@ -57,6 +57,7 @@ category:
 
 ## Shell
 
+* [Use .zprofile over .zshrc](shell/2022/07/10/1299885233.html) 
 * [Disable Backup of `sed`](shell/2022/07/03/1292384061.html) 
 
 ## Swift
