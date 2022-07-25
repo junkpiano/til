@@ -22,6 +22,7 @@ title: Today I Learned
 email: mail@yusuke.cloud 
 description: >- # this means to ignore newlines until "baseurl:"
   Micro Tech Blog generated from github issues.
+  Main blog is https://yusuke.cloud
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://til.yusuke.cloud" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: junkpiano 
