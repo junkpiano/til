@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2022-09-08 20:17:59 +0000
+date: 2022-09-09 07:30:58 +0000
 category: 
 ---
 
-*17 TILs, and counting...*
+*18 TILs, and counting...*
 
 ## Category
 
@@ -16,6 +16,7 @@ category:
 * [Go](#go)
 * [Hardware](#hardware)
 * [Jenkins](#jenkins)
+* [Misc](#misc)
 * [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
@@ -50,6 +51,10 @@ category:
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
+
+## Misc
+
+* [Pascal Triangle](2022/09/08/1366939029.html) 
 
 ## Python
 
