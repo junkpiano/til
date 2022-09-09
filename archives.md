@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2022-09-09 07:33:29 +0000
+date: 2022-09-09 07:34:37 +0000
 category: 
 ---
 
@@ -9,6 +9,7 @@ category:
 
 ## Category
 
+* [Algorithm](#algorithm)
 * [Docker](#docker)
 * [Emacs](#emacs)
 * [Firebase](#firebase)
@@ -16,11 +17,14 @@ category:
 * [Go](#go)
 * [Hardware](#hardware)
 * [Jenkins](#jenkins)
-* [Misc](#misc)
 * [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
 
+
+## Algorithm
+
+* [Pascal Triangle](algorithm/2022/09/08/1366939029.html) 
 
 ## Docker
 
@@ -51,10 +55,6 @@ category:
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
-
-## Misc
-
-* [Pascal Triangle](2022/09/08/1366939029.html) 
 
 ## Python
 
