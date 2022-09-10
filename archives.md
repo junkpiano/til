@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2022-09-10 08:52:25 +0000
+date: 2022-09-10 08:53:07 +0000
 category: 
 ---
 
-*18 TILs, and counting...*
+*19 TILs, and counting...*
 
 ## Category
 
@@ -24,6 +24,7 @@ category:
 
 ## Algorithm
 
+* [Split in C++](algorithm/2022/09/10/1368555561.html) 
 * [Pascal Triangle](algorithm/2022/09/08/1366939029.html) 
 
 ## Docker
