@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2023-09-27 01:43:04 +0000
+date: 2023-09-27 02:50:18 +0000
 category: 
 ---
 
@@ -16,7 +16,7 @@ category:
 * [Git](#git)
 * [Go](#go)
 * [Hardware](#hardware)
-* [IOS](#iOS)
+* [iOS](#ios)
 * [Jenkins](#jenkins)
 * [Python](#python)
 * [Shell](#shell)
@@ -55,7 +55,7 @@ category:
 * [HHKB Keymaps](hardware/2023/08/19/1857648163.html) 
 * [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
 
-## IOS
+## iOS
 
 * [agvtool](iOS/2023/09/27/1914523783.html) 
 * [Web Inspection from iOS16.4](iOS/2023/08/01/1830313636.html) 
