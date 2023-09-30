@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2023-09-30 15:02:16 +0000
+date: 2023-09-30 15:05:57 +0000
 category: 
 ---
 
-*22 TILs, and counting...*
+*24 TILs, and counting...*
 
 ## Category
 
@@ -30,6 +30,7 @@ category:
 
 ## Docker
 
+* [Troubleshoot dokku](docker/2023/09/30/1920266989.html) 
 * [Rancher Desktop](docker/2022/07/02/1292128427.html) 
 * [Instant `docker run`](docker/2022/07/02/1292122384.html) 
 
@@ -52,6 +53,7 @@ category:
 
 ## Hardware
 
+* [Optimizing Bluetooth Connectivity on an AMD AM5 Motherboard](hardware/2023/09/30/1920285863.html) 
 * [HHKB Keymaps](hardware/2023/08/19/1857648163.html) 
 * [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
 
