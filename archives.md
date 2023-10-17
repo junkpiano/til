@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2023-10-17 07:03:43 +0000
+date: 2023-10-17 07:42:39 +0000
 category: 
 ---
 
-*24 TILs, and counting...*
+*25 TILs, and counting...*
 
 ## Category
 
@@ -72,6 +72,7 @@ category:
 
 ## Shell
 
+* [Replace a String in All Files Within the Project](shell/2023/10/17/1946686273.html) 
 * [Use .zprofile over .zshrc](shell/2022/07/10/1299885233.html) 
 * [Disable Backup of `sed`](shell/2022/07/03/1292384061.html) 
 
