@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2023-10-17 07:42:39 +0000
+date: 2023-10-21 09:09:04 +0000
 category: 
 ---
 
-*25 TILs, and counting...*
+*26 TILs, and counting...*
 
 ## Category
 
@@ -21,6 +21,7 @@ category:
 * [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
+* [Windows](#windows)
 
 
 ## Algorithm
@@ -79,5 +80,9 @@ category:
 ## Swift
 
 * [Frozen](swift/2022/07/05/1294020295.html) 
+
+## Windows
+
+* [How to Check System Info on Windows Terminal](windows/2023/10/21/1955400827.html) 
 
 
