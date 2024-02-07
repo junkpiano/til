@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2024-02-07 01:34:14 +0000
+date: 2024-02-07 01:34:43 +0000
 category: 
 ---
 
-*22 TILs, and counting...*
+*23 TILs, and counting...*
 
 ## Category
 
@@ -50,6 +50,7 @@ category:
 
 ## Go
 
+* [Go Install](go/2024/02/07/2121986607.html) 
 * [Find index of slice](go/2022/07/02/1292088454.html) 
 
 ## Hardware
