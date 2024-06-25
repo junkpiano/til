@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2024-06-25 01:13:27 +0000
+date: 2024-06-25 01:27:53 +0000
 category: 
 ---
 
-*23 TILs, and counting...*
+*24 TILs, and counting...*
 
 ## Category
 
@@ -18,6 +18,7 @@ category:
 * [Hardware](#hardware)
 * [iOS](#ios)
 * [Jenkins](#jenkins)
+* [Misc](#misc)
 * [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
@@ -67,6 +68,10 @@ category:
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
+
+## Misc
+
+* [Virtual Machine on MacOS](2024/06/25/2371416152.html) 
 
 ## Python
 
