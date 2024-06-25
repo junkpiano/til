@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2024-06-25 01:27:53 +0000
+date: 2024-06-25 01:28:20 +0000
 category: 
 ---
 
@@ -18,7 +18,6 @@ category:
 * [Hardware](#hardware)
 * [iOS](#ios)
 * [Jenkins](#jenkins)
-* [Misc](#misc)
 * [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
@@ -32,6 +31,7 @@ category:
 
 ## Docker
 
+* [Virtual Machine on MacOS](docker/2024/06/25/2371416152.html) 
 * [Troubleshoot dokku](docker/2023/09/30/1920266989.html) 
 * [Rancher Desktop](docker/2022/07/02/1292128427.html) 
 * [Instant `docker run`](docker/2022/07/02/1292122384.html) 
@@ -68,10 +68,6 @@ category:
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
-
-## Misc
-
-* [Virtual Machine on MacOS](2024/06/25/2371416152.html) 
 
 ## Python
 
