@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2024-09-09 07:59:33 +0000
+date: 2024-09-09 07:59:58 +0000
 category: 
 ---
 
-*24 TILs, and counting...*
+*25 TILs, and counting...*
 
 ## Category
 
@@ -56,6 +56,7 @@ category:
 
 ## Hardware
 
+* [Horizontal Scroll using Mouse](hardware/2024/09/09/2513204781.html) 
 * [Optimizing Bluetooth Connectivity on an AMD AM5 Motherboard](hardware/2023/09/30/1920285863.html) 
 * [HHKB Keymaps](hardware/2023/08/19/1857648163.html) 
 * [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
