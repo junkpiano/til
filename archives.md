@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2024-10-09 02:31:54 +0000
+date: 2024-10-09 02:48:20 +0000
 category: 
 ---
 
@@ -73,7 +73,7 @@ category:
 
 ## Nvim
 
-* [Troubleshoot: Fix markdown-preview plugin](nvim/2024/10/09/2574578200.html) 
+* [How to fix markdown-preview plugin](nvim/2024/10/09/2574578200.html) 
 
 ## Python
 
