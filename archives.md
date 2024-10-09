@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Archives
-date: 2024-10-09 02:30:34 +0000
+date: 2024-10-09 02:31:54 +0000
 category: 
 ---
 
-*25 TILs, and counting...*
+*26 TILs, and counting...*
 
 ## Category
 
@@ -18,6 +18,7 @@ category:
 * [Hardware](#hardware)
 * [iOS](#ios)
 * [Jenkins](#jenkins)
+* [Nvim](#nvim)
 * [Python](#python)
 * [Shell](#shell)
 * [Swift](#swift)
@@ -69,6 +70,10 @@ category:
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
+
+## Nvim
+
+* [Troubleshoot: Fix markdown-preview plugin](nvim/2024/10/09/2574578200.html) 
 
 ## Python
 
