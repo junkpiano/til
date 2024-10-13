@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2024-10-09 02:48:20 +0000
+date: 2024-10-13 09:18:49 +0000
 category: 
 ---
 
@@ -60,7 +60,6 @@ category:
 * [Horizontal Scroll using Mouse](hardware/2024/09/09/2513204781.html) 
 * [Optimizing Bluetooth Connectivity on an AMD AM5 Motherboard](hardware/2023/09/30/1920285863.html) 
 * [HHKB Keymaps](hardware/2023/08/19/1857648163.html) 
-* [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
 
 ## iOS
 
@@ -91,6 +90,7 @@ category:
 
 ## Windows
 
+* [Powershell Cheatsheet](windows/2024/10/13/2583811583.html) 
 * [How to Check System Info on Windows Terminal](windows/2023/10/21/1955400827.html) 
 
 
