@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2025-09-13 13:34:17 +0000
+date: 2025-09-13 13:34:41 +0000
 category: 
 ---
 
@@ -13,7 +13,6 @@ category:
 * [Docker](#docker)
 * [Emacs](#emacs)
 * [Firebase](#firebase)
-* [Git](#git)
 * [Go](#go)
 * [Hardware](#hardware)
 * [iOS](#ios)
@@ -45,10 +44,6 @@ category:
 ## Firebase
 
 * [Authenticate in Go without Admin SDK](firebase/2022/07/02/1292113497.html) 
-
-## Git
-
-* [Mirror Repo](git/2022/07/02/1292084303.html) 
 
 ## Go
 
@@ -90,6 +85,7 @@ category:
 
 ## Windows
 
+* [Fixing “Timestamp was ahead of the server’s time” on WSL2](windows/2025/09/13/3413490711.html) 
 * [Powershell Cheatsheet](windows/2024/10/13/2583811583.html) 
 * [How to Check System Info on Windows Terminal](windows/2023/10/21/1955400827.html) 
 
