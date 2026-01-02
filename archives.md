@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-01-02 16:39:34 +0000
+date: 2026-01-02 16:40:20 +0000
 category: 
 ---
 
@@ -17,7 +17,6 @@ category:
 * [Hardware](#hardware)
 * [iOS](#ios)
 * [Jenkins](#jenkins)
-* [Kubernetes](#kubernetes)
 * [Nvim](#nvim)
 * [Python](#python)
 * [Shell](#shell)
@@ -65,10 +64,6 @@ category:
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
 
-## Kubernetes
-
-* [Windows + WSL2 + k3s + Helm + Argo CD](kubernetes/2026/01/02/3776716818.html) 
-
 ## Nvim
 
 * [How to fix markdown-preview plugin](nvim/2024/10/09/2574578200.html) 
@@ -89,6 +84,7 @@ category:
 
 ## Windows
 
+* [Windows + WSL2 + k3s + Helm + Argo CD](windows/2026/01/02/3776716818.html) 
 * [Fixing “Timestamp was ahead of the server’s time” on WSL2](windows/2025/09/13/3413490711.html) 
 * [Powershell Cheatsheet](windows/2024/10/13/2583811583.html) 
 * [How to Check System Info on Windows Terminal](windows/2023/10/21/1955400827.html) 
