@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-01-02 16:39:15 +0000
+date: 2026-01-02 16:39:34 +0000
 category: 
 ---
 
@@ -17,6 +17,7 @@ category:
 * [Hardware](#hardware)
 * [iOS](#ios)
 * [Jenkins](#jenkins)
+* [Kubernetes](#kubernetes)
 * [Nvim](#nvim)
 * [Python](#python)
 * [Shell](#shell)
@@ -48,7 +49,6 @@ category:
 ## Go
 
 * [Go Install](go/2024/02/07/2121986607.html) 
-* [Find index of slice](go/2022/07/02/1292088454.html) 
 
 ## Hardware
 
@@ -64,6 +64,10 @@ category:
 ## Jenkins
 
 * [How you become root in Docker container on Jenkins pipeline](jenkins/2022/07/03/1292236535.html) 
+
+## Kubernetes
+
+* [Windows + WSL2 + k3s + Helm + Argo CD](kubernetes/2026/01/02/3776716818.html) 
 
 ## Nvim
 
