@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-01-04 07:50:17 +0000
+date: 2026-01-04 07:51:03 +0000
 category: 
 ---
 
@@ -40,7 +40,6 @@ category:
 ## Emacs
 
 * [Doom Emacs](emacs/2022/07/02/1292115470.html) 
-* [Build your own Emacs](emacs/2022/07/02/1292095532.html) 
 
 ## Firebase
 
@@ -89,6 +88,7 @@ category:
 
 ## Windows
 
+* [Fixing Podman "Pipe Busy" Errors on Windows via WSL Update](windows/2026/01/04/3778965288.html) 
 * [Fixing “Timestamp was ahead of the server’s time” on WSL2](windows/2025/09/13/3413490711.html) 
 * [Powershell Cheatsheet](windows/2024/10/13/2583811583.html) 
 * [How to Check System Info on Windows Terminal](windows/2023/10/21/1955400827.html) 
