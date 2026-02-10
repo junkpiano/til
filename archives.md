@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-02-10 14:16:32 +0000
+date: 2026-02-10 14:26:15 +0000
 category: 
 ---
 
@@ -12,12 +12,12 @@ category:
 * [Algorithm](#algorithm)
 * [Docker](#docker)
 * [Emacs](#emacs)
-* [Firebase](#firebase)
 * [Go](#go)
 * [Hardware](#hardware)
 * [iOS](#ios)
 * [Jenkins](#jenkins)
 * [Kubernetes](#kubernetes)
+* [Linux](#linux)
 * [Nvim](#nvim)
 * [Python](#python)
 * [Shell](#shell)
@@ -41,10 +41,6 @@ category:
 
 * [Doom Emacs](emacs/2022/07/02/1292115470.html) 
 
-## Firebase
-
-* [Authenticate in Go without Admin SDK](firebase/2022/07/02/1292113497.html) 
-
 ## Go
 
 * [Go Install](go/2024/02/07/2121986607.html) 
@@ -67,6 +63,10 @@ category:
 ## Kubernetes
 
 * [Windows + WSL2 + k3s + Helm + Argo CD](kubernetes/2026/01/02/3776716818.html) 
+
+## Linux
+
+* [Ubuntu 24.04: “No Wi-Fi Adapter Found” on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB](linux/2026/02/10/3921717904.html) 
 
 ## Nvim
 
