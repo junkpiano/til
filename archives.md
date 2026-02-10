@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-02-10 14:31:51 +0000
+date: 2026-02-10 16:52:52 +0000
 category: 
 ---
 
@@ -66,7 +66,7 @@ category:
 
 ## Linux
 
-* [Ubuntu 24.04: "No Wi-Fi Adapter Found" on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB](linux/2026/02/10/3921717904.html) 
+* [[Ubuntu 24.04] "No Wi-Fi Adapter Found" on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB](linux/2026/02/10/3921717904.html) 
 
 ## Nvim
 
