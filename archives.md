@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Archives"
-date: 2026-08-02 15:58:01 +0000
+date: 2026-08-02 16:35:11 +0000
 category: 
 ---
 
-*32 TILs, and counting...*
+*34 TILs, and counting...*
 
 ## Category
 
@@ -55,6 +55,7 @@ category:
 
 ## Git
 
+* [git commit -S fails under Claude Code on WSL: route pinentry to Gpg4win](git/2026/08/02/5043328115.html) 
 * [Mirror Repo](git/2022/07/02/1292084303.html) 
 
 ## Go
@@ -64,6 +65,7 @@ category:
 
 ## Hardware
 
+* [Eliminating Raspberry Pi Fan Noise with Temperature-Based Control](hardware/2026/02/19/3963432083.html) 
 * [Horizontal Scroll using Mouse](hardware/2024/09/09/2513204781.html) 
 * [Optimizing Bluetooth Connectivity on an AMD AM5 Motherboard](hardware/2023/09/30/1920285863.html) 
 * [HHKB Keymaps](hardware/2023/08/19/1857648163.html) 
