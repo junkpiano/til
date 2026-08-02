@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-08-02 13:50:51 +0000
+date: 2026-08-02 13:58:10 +0000
 category: 
 ---
 
@@ -27,7 +27,7 @@ category:
 
 ## ClaudeCode
 
-* [Claude Code Permission Modes: Manual vs Accept Edits vs Plan vs Auto](claude code/2026/08/02/5042723850.html) 
+* ['Claude Code Permission Modes: Manual vs Accept Edits vs Plan vs Auto'](claude code/2026/08/02/5042723850.html) 
 
 ## Algorithm
 
