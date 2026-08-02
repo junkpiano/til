@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-date: 2026-02-19 15:02:56 +0000
+date: 2026-08-02 13:50:51 +0000
 category: 
 ---
 
@@ -9,9 +9,9 @@ category:
 
 ## Category
 
+* [ClaudeCode](#claude code)
 * [Algorithm](#algorithm)
 * [Docker](#docker)
-* [Emacs](#emacs)
 * [Go](#go)
 * [Hardware](#hardware)
 * [iOS](#ios)
@@ -25,6 +25,10 @@ category:
 * [Windows](#windows)
 
 
+## ClaudeCode
+
+* [Claude Code Permission Modes: Manual vs Accept Edits vs Plan vs Auto](claude code/2026/08/02/5042723850.html) 
+
 ## Algorithm
 
 * [Split in C++](algorithm/2022/09/10/1368555561.html) 
@@ -36,10 +40,6 @@ category:
 * [Troubleshoot dokku](docker/2023/09/30/1920266989.html) 
 * [Rancher Desktop](docker/2022/07/02/1292128427.html) 
 * [Instant `docker run`](docker/2022/07/02/1292122384.html) 
-
-## Emacs
-
-* [Doom Emacs](emacs/2022/07/02/1292115470.html) 
 
 ## Go
 
