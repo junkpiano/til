@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Archives
-date: 2026-08-02 13:58:10 +0000
+title: "Archives"
+date: 2026-08-02 15:58:01 +0000
 category: 
 ---
 
-*26 TILs, and counting...*
+*32 TILs, and counting...*
 
 ## Category
 
 * [ClaudeCode](#claude code)
 * [Algorithm](#algorithm)
 * [Docker](#docker)
+* [Emacs](#emacs)
+* [Firebase](#firebase)
+* [Git](#git)
 * [Go](#go)
 * [Hardware](#hardware)
 * [iOS](#ios)
@@ -27,7 +30,7 @@ category:
 
 ## ClaudeCode
 
-* ['Claude Code Permission Modes: Manual vs Accept Edits vs Plan vs Auto'](claude code/2026/08/02/5042723850.html) 
+* [Claude Code Permission Modes: Manual vs Accept Edits vs Plan vs Auto](claude code/2026/08/02/5042723850.html) 
 
 ## Algorithm
 
@@ -41,15 +44,30 @@ category:
 * [Rancher Desktop](docker/2022/07/02/1292128427.html) 
 * [Instant `docker run`](docker/2022/07/02/1292122384.html) 
 
+## Emacs
+
+* [Doom Emacs](emacs/2022/07/02/1292115470.html) 
+* [Build your own Emacs](emacs/2022/07/02/1292095532.html) 
+
+## Firebase
+
+* [Authenticate in Go without Admin SDK](firebase/2022/07/02/1292113497.html) 
+
+## Git
+
+* [Mirror Repo](git/2022/07/02/1292084303.html) 
+
 ## Go
 
 * [Go Install](go/2024/02/07/2121986607.html) 
+* [Find index of slice](go/2022/07/02/1292088454.html) 
 
 ## Hardware
 
 * [Horizontal Scroll using Mouse](hardware/2024/09/09/2513204781.html) 
 * [Optimizing Bluetooth Connectivity on an AMD AM5 Motherboard](hardware/2023/09/30/1920285863.html) 
 * [HHKB Keymaps](hardware/2023/08/19/1857648163.html) 
+* [Enable Virtualization on MSI Click(Motherboard)](hardware/2022/07/02/1292022536.html) 
 
 ## iOS
 
@@ -66,7 +84,7 @@ category:
 
 ## Linux
 
-* ['Ubuntu 24.04: "No Wi-Fi Adapter Found" on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB'](linux/2026/02/10/3921717904.html) 
+* [Ubuntu 24.04: "No Wi-Fi Adapter Found" on Intel Core Ultra (ILL) – fixed by forcing OEM kernel via GRUB](linux/2026/02/10/3921717904.html) 
 
 ## Nvim
 
