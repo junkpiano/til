@@ -19,14 +19,26 @@ on:
       - unlabeled
       - unpinned
 
+# A single issue can fire several of the events above at once (opened,
+# labeled, closed). Running them in parallel made the commit step race
+# itself into non-fast-forward push failures, and tripled the API calls.
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: read
     steps:
       - uses: actions/checkout@v3
       - uses: junkpiano/til-cli@v1
+        with:
+          # Anonymous calls get 60/hr per runner IP, shared with every other
+          # Actions job on that host. Exhausting it is what wiped _posts.
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: EndBug/add-and-commit@v9
         with:
             default_author: github_actions
